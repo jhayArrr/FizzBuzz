@@ -1,4 +1,4 @@
-const testNumber = 15;
+const testNumber = 3;
 console.log(fizzBuzz(testNumber)); //Calling Function
 
 function fizzBuzz (input) { //These match order of logic
